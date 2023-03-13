@@ -9,7 +9,7 @@ Hi 👋 My name is Anchit Bhatia
 I am a highly skilled and driven software engineer with a wealth of experience and a passion for developing innovative solutions to complex problems. With a Master's degree in Computer Science and a strong background in software development, I have a diverse set of skills that allow me to tackle challenging projects with ease. My extensive experience with programming languages such as Java, Python, Golang and Kotlin, along with my expertise in tools & packages like AWS, PostgreSQL, VMware vSphere, REST APIs etc, make me an ideal candidate for any software engineering role. I have a proven track record of delivering high-quality results, as evidenced by my contributions to notable companies like Meta, Hewlett Packard Enterprise, and SnapLogic.
 
 * 🌍  I'm based in San Francisco, CA
-* 🎓  Pursuing MS in CS from University of San Francisco, graduating in May'23 🥳
+* 🎓  Pursuing MS in CS from University of San Francisco
 * ✉️  You can reach out to me at [anchitbhatia23@gmail.com](mailto:anchitbhatia23@gmail.com)
 * 💼  Visit my [Linkedin profile](https://www.linkedin.com/in/anchitbhatia/)
 * 🧠  Currently I'm learning IaC (Infrastructure as Code)
