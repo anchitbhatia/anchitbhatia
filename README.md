@@ -15,8 +15,8 @@ I am a highly skilled and driven software engineer with a wealth of experience a
 * 🧠  Currently I'm learning IaC (Infrastructure as Code)
 * ⚡  I’m not a software engineer, I’m a problem solver who writes code
 <p>
+  
 ### Skills
-
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
